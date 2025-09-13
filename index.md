@@ -2,24 +2,22 @@
 
 Welcome to my collection of Bible study notes, theological reflections, and spiritual insights. This journal represents my ongoing journey of understanding Scripture and exploring faith through writing.
 
-## Recent Entries
+## Recent Entries (Chronological)
 
-### Theological Essays
+### September 2025
+- **Sept 13** - [Fascism Is Just Plain Dictatorship](2025-09-13-fascism-is-just-plain-ditatorship.md) - How academia fell for a thug's marketing campaign
+- **Sept 12** - [Fascism is a Fake Word](2025-09-12-Fascism-is-a-fake-word.md) - Examining the misuse of political labels and the importance of precise language
+- **Sept 6** - [Trinity in Scripture](2025-09-06-trinity_scriptures_blog.md) - Examining biblical evidence for the doctrine of the Trinity
+- **Sept 1** - [Romans 5 Commentary](2025-09-01-romans5_commentary.md) - Deep dive into Paul's teaching on justification, peace with God, and the hope of glory
+- **Sept 1** - [Modern Pharisaism](2025-09-01-modern_pharisaism_blog.md) - Recognizing and avoiding legalistic patterns in contemporary Christian practice
 
-- [Biblical Theology of Constraints](2025-08-20-WED-biblical-theology-of-constraints.md) - An exploration of how God uses constraints and limitations as tools for spiritual growth and sanctification
-- [How to Leverage Constraints](2025-08-20-WED-how-to-leverage-constraints.md) - Practical wisdom on embracing limitations as opportunities for growth
+### August 2025
+- **Aug 20** - [Biblical Theology of Constraints](2025-08-20-WED-biblical-theology-of-constraints.md) - An exploration of how God uses constraints and limitations as tools for spiritual growth and sanctification
+- **Aug 20** - [How to Leverage Constraints](2025-08-20-WED-how-to-leverage-constraints.md) - Practical wisdom on embracing limitations as opportunities for growth
+
+### Undated
 - [Constraints vs Goals](constraints-vs-goals.md) - Understanding the difference between healthy boundaries and restrictive mindsets
-
-### Biblical Commentary
-
-- [Romans 5 Commentary](2025-09-01-romans5_commentary.md) - Deep dive into Paul's teaching on justification, peace with God, and the hope of glory
-- [Trinity in Scripture](2025-09-06-trinity_scriptures_blog.md) - Examining biblical evidence for the doctrine of the Trinity
-
-### Contemporary Applications
-
-- [Modern Pharisaism](2025-09-01-modern_pharisaism_blog.md) - Recognizing and avoiding legalistic patterns in contemporary Christian practice
 - [Biblical Callings Discussion](biblical-callings-discussion.md) - Exploring how God calls and equips His people for service
-- [Fascism is a Fake Word](2025-09-12-Fascism-is-a-fake-word.md) - Examining the misuse of political labels and the importance of precise language
 
 ## About This Journal
 
