@@ -5,6 +5,8 @@ Welcome to my collection of Bible study notes, theological reflections, and spir
 ## Recent Entries (Chronological)
 
 ### September 2025
+- **Sept 13** - [The Raised Fist: Symbol of Violence](2025-09-13-the-fist-symbol-of-violence.md) - How a universal threat display gets rebranded as "solidarity"
+- **Sept 13** - [When "Anti-Fascists" Become the New Blackshirts](2025-09-13-antifascists-as-new-blackshirts.md) - The horseshoe theory in action: how antifa mirrors Mussolini's squadristi
 - **Sept 13** - [Fascism Is Just Plain Dictatorship](2025-09-13-fascism-is-just-plain-ditatorship.md) - How academia fell for a thug's marketing campaign
 - **Sept 12** - [Fascism is a Fake Word](2025-09-12-Fascism-is-a-fake-word.md) - Examining the misuse of political labels and the importance of precise language
 - **Sept 6** - [Trinity in Scripture](2025-09-06-trinity_scriptures_blog.md) - Examining biblical evidence for the doctrine of the Trinity
