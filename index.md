@@ -19,6 +19,7 @@ Welcome to my collection of Bible study notes, theological reflections, and spir
 
 - [Modern Pharisaism](2025-09-01-modern_pharisaism_blog.md) - Recognizing and avoiding legalistic patterns in contemporary Christian practice
 - [Biblical Callings Discussion](biblical-callings-discussion.md) - Exploring how God calls and equips His people for service
+- [Fascism is a Fake Word](2025-09-12-Fascism-is-a-fake-word.md) - Examining the misuse of political labels and the importance of precise language
 
 ## About This Journal
 
