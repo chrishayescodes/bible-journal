@@ -5,6 +5,7 @@ Welcome to my collection of Bible study notes, theological reflections, and spir
 ## Recent Entries (Chronological)
 
 ### September 2025
+- **Sept 13** - [The Root of Murder: Cain's Hatred Lives in Every Act of Violence](2025-09-13-cains-hatred-root-of-violence.md) - How violent hatred stems from the same spiritual root as Cain's murder of Abel
 - **Sept 13** - [The Raised Fist: Symbol of Violence](2025-09-13-the-fist-symbol-of-violence.md) - How a universal threat display gets rebranded as "solidarity"
 - **Sept 13** - [When "Anti-Fascists" Become the New Blackshirts](2025-09-13-antifascists-as-new-blackshirts.md) - The horseshoe theory in action: how antifa mirrors Mussolini's squadristi
 - **Sept 13** - [Fascism Is Just Plain Dictatorship](2025-09-13-fascism-is-just-plain-ditatorship.md) - How academia fell for a thug's marketing campaign
