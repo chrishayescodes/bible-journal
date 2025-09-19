@@ -95,8 +95,6 @@ Regardless of what the practice was, Paul's point is clear: if there's no resurr
 **The Textus Receptus Consideration:**
 The TR preserves the simple reading without textual variants that might clarify the meaning, leaving us to wrestle with Paul's intended sense.
 
-What's your take on this puzzling passage? Do any of these interpretive approaches seem more compelling to you?
-
 ## Section 3: The Nature of the Resurrection Body (verses 35-58)
 
 ### The Questions Posed (verse 35)
