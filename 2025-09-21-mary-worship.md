@@ -26,3 +26,46 @@
 The Catholic Church claims to distinguish between "latria" (worship due to God alone), "dulia" (veneration of saints), and "hyperdulia" (special veneration due to Mary), insisting they "do not worship Mary" but rather "venerate" her.
 
 However, many of these practices - particularly kneeling, prostration, direct prayer, and use of intercessory titles - directly parallel the biblical behaviors attributed to worship (proskuneo) that we identified earlier, which angels, apostles, and other biblical figures consistently refused when offered to them.
+
+## Greek "Proskuneo" in the Textus Receptus
+
+The primary Greek word for worship in the New Testament is "proskuneo" (προσκυνέω), meaning literally "to kiss" - specifically to kiss the hand of a superior or even the ground before someone. Some scholars believe it derives from the idea of a dog licking its master's hand. The word combines "pros" (toward/against) with a derivative meaning "to kiss," literally describing the physical act of falling face down in adoration with an attitude of utmost respect.
+
+## Jesus Accepting Worship
+
+The data reveals a striking pattern: Jesus received proskuneo in 14 distinct New Testament references. Key examples include:
+
+**Matthew 28:9, 17** - The women "took hold of his feet and worshiped him" after the resurrection. Matthew gives the detail that they were already bowed down when they worshiped, making it clear this wasn't mere bowing but full worship.
+
+**Matthew 14:33** - After Jesus walked on water, the disciples worshiped him, confessing him as "Son of God." Significantly, whenever worship is offered to men or angels in the Bible, it is refused - but Jesus received such worship freely.
+
+**Matthew 2:2, 8, 11** - The Magi came to "pay homage" to Jesus as the newborn king, though the context suggests recognition of divine kingship.
+
+## Peter and Others Refusing Worship
+
+### Peter's Refusal (Acts 10:25-26)
+When Cornelius "fell down at his feet and worshiped him," Peter immediately "lifted him up, saying, 'Stand up; I myself am also a man'". Peter knew that worship is for God alone, and he's not God.
+
+### Paul and Barnabas (Acts 14:11-18)
+At Lystra, when crowds wanted to sacrifice to Paul and Barnabas as Zeus and Hermes, "they tore their clothes and begged the people to stop," telling them to "turn from these useless things to the living God".
+
+### Angels Refusing Worship (Revelation 19:10, 22:8-9)
+John twice attempted to worship angels showing him revelations, and both times the angel said "You must not do that! I am a fellow servant... Worship God". The angels' response contrasts sharply with Jesus' acceptance of worship, providing strong evidence that Jesus is more than human.
+
+## Theological Implications
+
+This pattern reveals a crucial theological distinction:
+
+1. **Consistent Refusal**: Every created being - Peter, Paul, Barnabas, angels - consistently refuses proskuneo when offered
+
+2. **Jesus' Acceptance**: Jesus not only accepts proskuneo but is commanded to receive it (Hebrews 1:6)
+
+3. **Contextual Usage**: While proskuneo can mean simple bowing to human authority in some contexts, when used in religious contexts it acknowledges deity. The Greek word has variety of meanings, so context determines whether it's mere respect or divine worship
+
+## The Technical "Why"
+
+The Greek manuscripts reveal that while proskuneo appears 59 times in the New Testament, there's never any instance of "latreuo" (sacred service) being offered to Jesus - only to God. This suggests a nuanced understanding: Jesus receives the honor/reverence aspect of worship (proskuneo) while the Father receives the service aspect (latreuo), pointing to their distinct yet unified relationship within the Trinity.
+
+The pattern demonstrates that when Jesus said "worship God only" to Satan, this wasn't excluding himself from worship if he is indeed God incarnate - it was establishing the proper object of ultimate devotion.
+
+This cross-study reveals that the Textus Receptus usage supports both Jesus' divine nature (through accepting worship) and the proper boundaries of worship (through others' consistent refusal), creating a theologically coherent pattern about the nature of true worship and its proper object.
