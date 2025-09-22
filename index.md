@@ -5,6 +5,7 @@ Welcome to my collection of Bible study notes, theological reflections, and spir
 ## Recent Entries (Chronological)
 
 ### September 2025
+- **Sept 21** - [Catholic Practices Directed Toward Mary That Match Biblical Worship Behaviors](2025-09-21-mary-worship.md) - Examining Catholic Marian practices in light of biblical worship patterns
 - **Sept 14** - [Calling vs Desire: When God Calls You Where You Don't Want to Go](2025-09-14-calling_vs_desire_blog.md) - Distinguishing between our desires and God's calling, even when they conflict
 - **Sept 13** - [The Root of Murder: Cain's Hatred Lives in Every Act of Violence](2025-09-13-cains-hatred-root-of-violence.md) - How violent hatred stems from the same spiritual root as Cain's murder of Abel
 - **Sept 13** - [The Raised Fist: Symbol of Violence](2025-09-13-the-fist-symbol-of-violence.md) - How a universal threat display gets rebranded as "solidarity"
