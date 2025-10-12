@@ -5,6 +5,7 @@ Welcome to my collection of Bible study notes, theological reflections, and spir
 ## Recent Entries (Chronological)
 
 ### October 2025
+- **Oct 12** - [Hard Truths: Wisdom in Babylon](2025-10-12-hard-employment-truths.md) - Daniel's model for being ruthlessly strategic and morally grounded simultaneously in the workplace
 - **Oct 11** - [Navigating Unfair Systems: Wisdom from Literature and Scripture](2025-10-11-wisdom_unfair_systems.md) - Biblical and literary wisdom for thriving in broken systems while maintaining integrity
 
 ### September 2025
