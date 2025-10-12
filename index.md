@@ -4,6 +4,9 @@ Welcome to my collection of Bible study notes, theological reflections, and spir
 
 ## Recent Entries (Chronological)
 
+### October 2025
+- **Oct 11** - [Navigating Unfair Systems: Wisdom from Literature and Scripture](2025-10-11-wisdom_unfair_systems.md) - Biblical and literary wisdom for thriving in broken systems while maintaining integrity
+
 ### September 2025
 - **Sept 21** - [Catholic Practices Directed Toward Mary That Match Biblical Worship Behaviors](2025-09-21-mary-worship.md) - Examining Catholic Marian practices in light of biblical worship patterns
 - **Sept 14** - [Calling vs Desire: When God Calls You Where You Don't Want to Go](2025-09-14-calling_vs_desire_blog.md) - Distinguishing between our desires and God's calling, even when they conflict
