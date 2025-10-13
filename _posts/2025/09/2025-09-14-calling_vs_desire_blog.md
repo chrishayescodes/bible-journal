@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Your Desire for Ministry Doesn't Mean God Called You"
+date: 2025-09-14
+categories: [blog]
+redirect_from: /2025-09-14-calling_vs_desire_blog.md
+---
+
 # Your Desire for Ministry Doesn't Mean God Called You
 
 *"And no man taketh this honour unto himself, but he that is called of God, as was Aaron." - Hebrews 5:4*

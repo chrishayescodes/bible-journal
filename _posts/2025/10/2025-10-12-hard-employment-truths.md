@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Hard Truths: Wisdom in Babylon"
+date: 2025-10-12
+categories: [wisdom, workplace, biblical-application]
+redirect_from: /2025-10-12-hard-employment-truths.md
+---
+
 # Hard Truths: Wisdom in Babylon
 
 Daniel served in Babylon without becoming Babylonian. He rose to the highest levels of a pagan empire while refusing to compromise on what mattered. He was politically sophisticated yet spiritually uncompromising. He understood how power worked but didn't worship it.

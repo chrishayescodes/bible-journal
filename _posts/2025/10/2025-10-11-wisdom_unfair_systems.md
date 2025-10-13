@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Navigating Unfair Systems: Wisdom from Literature and Scripture"
+date: 2025-10-11
+categories: [blog]
+redirect_from: /2025-10-11-wisdom_unfair_systems.md
+---
+
 # Navigating Unfair Systems: Wisdom from Literature and Scripture
 
 ## The Central Problem: The Myth of Meritocracy

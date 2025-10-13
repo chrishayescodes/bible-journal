@@ -1,0 +1,48 @@
+# Site settings
+title: Bible Journal & Theological Reflections
+description: >-
+  A collection of Bible study notes, theological reflections, and spiritual insights
+  representing an ongoing journey of understanding Scripture and exploring faith.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - process_blogs.sh
+  - README.md
+
+# Include files
+include:
+  - _pages
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Your Name"

@@ -1,3 +1,11 @@
+---
+layout: post
+title: "The Raised Fist: A Universal Symbol of Violence Masquerading as Liberation"
+date: 2025-09-13
+categories: [blog]
+redirect_from: /2025-09-13-the-fist-symbol-of-violence.md
+---
+
 # The Raised Fist: A Universal Symbol of Violence Masquerading as Liberation
 
 ## The Primal Threat

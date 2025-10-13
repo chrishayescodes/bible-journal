@@ -1,3 +1,11 @@
+---
+layout: post
+title: "📖 Biblical Understanding of Constraints"
+date: 2025-08-20
+categories: [blog]
+redirect_from: /2025-08-20-WED-biblical-theology-of-constraints.md
+---
+
 # 📖 Biblical Understanding of Constraints
 
 *Exploring how Scripture presents constraints as God's creative and formative tools* ✨

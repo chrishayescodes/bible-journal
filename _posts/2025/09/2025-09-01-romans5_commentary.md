@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Romans 5 Commentary: Federal Headship and the Two Representatives ⚖️👑"
+date: 2025-09-01
+categories: [blog]
+redirect_from: /2025-09-01-romans5_commentary.md
+---
+
 # Romans 5 Commentary: Federal Headship and the Two Representatives ⚖️👑
 
 *A verse-by-verse exploration of Paul's masterpiece on justification's results and the Adam-Christ parallel*

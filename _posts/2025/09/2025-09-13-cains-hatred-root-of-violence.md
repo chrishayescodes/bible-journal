@@ -1,3 +1,11 @@
+---
+layout: post
+title: "The Root of Murder: How Cain's Hatred Lives in Every Act of Violence"
+date: 2025-09-13
+categories: [blog]
+redirect_from: /2025-09-13-cains-hatred-root-of-violence.md
+---
+
 # The Root of Murder: How Cain's Hatred Lives in Every Act of Violence
 
 ## The First Murder: A Template for All That Follow

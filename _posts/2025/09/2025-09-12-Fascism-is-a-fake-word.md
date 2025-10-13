@@ -1,3 +1,11 @@
+---
+layout: post
+title: "The Academic Fiction of "Fascism": How One Thug's Branding Became a Century of Scholarship"
+date: 2025-09-12
+categories: [blog]
+redirect_from: /2025-09-12-Fascism-is-a-fake-word.md
+---
+
 # The Academic Fiction of "Fascism": How One Thug's Branding Became a Century of Scholarship
 
 Picture this: A failed journalist turned street fighter in 1920s Italy decides to call his political movement "fascism" after the Roman fasces—a bundle of sticks symbolizing strength through unity. Fast forward a century, and entire academic departments are built around studying this "unique" political phenomenon, complete with elaborate theoretical frameworks, defining characteristics, and scholarly debates.

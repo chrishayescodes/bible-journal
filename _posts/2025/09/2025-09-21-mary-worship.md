@@ -1,3 +1,11 @@
+---
+layout: post
+title: ""
+date: 2025-09-21
+categories: [blog]
+redirect_from: /2025-09-21-mary-worship.md
+---
+
 ## Catholic Practices Directed Toward Mary That Match Biblical Worship Behaviors:
 
 **Physical Postures and Gestures:**

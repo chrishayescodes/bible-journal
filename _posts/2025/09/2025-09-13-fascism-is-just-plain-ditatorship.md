@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Fascism Is Just Plain Dictatorship: How Academia Fell for a Thug's Marketing Campaign"
+date: 2025-09-13
+categories: [blog]
+redirect_from: /2025-09-13-fascism-is-just-plain-ditatorship.md
+---
+
 # Fascism Is Just Plain Dictatorship: How Academia Fell for a Thug's Marketing Campaign
 
 ## The Core Tenets of Fascism
