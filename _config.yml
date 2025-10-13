@@ -7,7 +7,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Build settings
-theme: minima
 remote_theme: jekyll/minima
 markdown: kramdown
 permalink: /posts/:year/:month/:day/:title/
