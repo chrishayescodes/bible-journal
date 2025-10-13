@@ -3,6 +3,8 @@ title: Bible Journal & Theological Reflections
 description: >-
   A collection of Bible study notes, theological reflections, and spiritual insights
   representing an ongoing journey of understanding Scripture and exploring faith.
+baseurl: "/bible-journal"
+url: "https://chrishayescodes.github.io"
 
 # Build settings
 markdown: kramdown
