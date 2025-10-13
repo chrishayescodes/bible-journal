@@ -7,8 +7,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Build settings
+theme: minima
 markdown: kramdown
-permalink: /:categories/:year/:month/:day/:title/
+permalink: /posts/:year/:month/:day/:title/
 
 # Plugins
 plugins:
@@ -16,11 +17,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
 
-# Collections
-collections:
-  posts:
-    output: true
-    permalink: /:year/:month/:day/:title/
+# Collections (posts collection is built-in, no need to redefine)
 
 # Exclude from processing
 exclude:
