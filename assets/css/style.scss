@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #f0f8ff; /* Alice blue - light pale blue */
+}
+
+.markdown-body {
+  background-color: #ffffff; /* Keep content area white */
+  padding: 2rem;
+  margin: 2rem auto;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
