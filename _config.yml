@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Build settings
-remote_theme: jekyll/minima
+theme: minima
 markdown: kramdown
 permalink: /posts/:year/:month/:day/:title/
 
@@ -16,7 +16,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-redirect-from
-  - jekyll-remote-theme
 
 # Collections (posts collection is built-in, no need to redefine)
 
