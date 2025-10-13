@@ -3,7 +3,7 @@ layout: post
 title: "How to Leverage Constraints for Positive Change"
 date: 2025-08-20
 categories: [blog]
-redirect_from: /2025-08-20-WED-how-to-leverage-constraints.md
+redirect_from: /2025-08-20-WED-how-to-leverage-constraints.html
 ---
 
 # How to Leverage Constraints for Positive Change

@@ -3,7 +3,7 @@ layout: post
 title: "📖 Biblical Understanding of Constraints"
 date: 2025-08-20
 categories: [blog]
-redirect_from: /2025-08-20-WED-biblical-theology-of-constraints.md
+redirect_from: /2025-08-20-WED-biblical-theology-of-constraints.html
 ---
 
 # 📖 Biblical Understanding of Constraints

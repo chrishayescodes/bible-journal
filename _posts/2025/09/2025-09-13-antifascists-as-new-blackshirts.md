@@ -3,7 +3,7 @@ layout: post
 title: "When "Anti-Fascists" Become the New Blackshirts: The Horseshoe Theory in Action"
 date: 2025-09-13
 categories: [blog]
-redirect_from: /2025-09-13-antifascists-as-new-blackshirts.md
+redirect_from: /2025-09-13-antifascists-as-new-blackshirts.html
 ---
 
 # When "Anti-Fascists" Become the New Blackshirts: The Horseshoe Theory in Action

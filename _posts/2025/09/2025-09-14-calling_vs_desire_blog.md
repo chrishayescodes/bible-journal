@@ -3,7 +3,7 @@ layout: post
 title: "Your Desire for Ministry Doesn't Mean God Called You"
 date: 2025-09-14
 categories: [blog]
-redirect_from: /2025-09-14-calling_vs_desire_blog.md
+redirect_from: /2025-09-14-calling_vs_desire_blog.html
 ---
 
 # Your Desire for Ministry Doesn't Mean God Called You

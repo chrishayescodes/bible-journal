@@ -3,7 +3,7 @@ layout: post
 title: "The Academic Fiction of "Fascism": How One Thug's Branding Became a Century of Scholarship"
 date: 2025-09-12
 categories: [blog]
-redirect_from: /2025-09-12-Fascism-is-a-fake-word.md
+redirect_from: /2025-09-12-Fascism-is-a-fake-word.html
 ---
 
 # The Academic Fiction of "Fascism": How One Thug's Branding Became a Century of Scholarship

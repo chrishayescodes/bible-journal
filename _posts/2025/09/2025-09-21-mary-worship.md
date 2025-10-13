@@ -3,7 +3,7 @@ layout: post
 title: ""
 date: 2025-09-21
 categories: [blog]
-redirect_from: /2025-09-21-mary-worship.md
+redirect_from: /2025-09-21-mary-worship.html
 ---
 
 ## Catholic Practices Directed Toward Mary That Match Biblical Worship Behaviors:

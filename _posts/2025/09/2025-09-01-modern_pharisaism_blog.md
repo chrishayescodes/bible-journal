@@ -3,7 +3,7 @@ layout: post
 title: "When Psychology Becomes Self-Righteousness: A Biblical Perspective 🧠⚖️"
 date: 2025-09-01
 categories: [blog]
-redirect_from: /2025-09-01-modern_pharisaism_blog.md
+redirect_from: /2025-09-01-modern_pharisaism_blog.html
 ---
 
 # When Psychology Becomes Self-Righteousness: A Biblical Perspective 🧠⚖️

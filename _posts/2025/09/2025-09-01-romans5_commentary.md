@@ -3,7 +3,7 @@ layout: post
 title: "Romans 5 Commentary: Federal Headship and the Two Representatives ⚖️👑"
 date: 2025-09-01
 categories: [blog]
-redirect_from: /2025-09-01-romans5_commentary.md
+redirect_from: /2025-09-01-romans5_commentary.html
 ---
 
 # Romans 5 Commentary: Federal Headship and the Two Representatives ⚖️👑

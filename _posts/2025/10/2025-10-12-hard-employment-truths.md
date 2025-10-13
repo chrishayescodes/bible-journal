@@ -3,7 +3,7 @@ layout: post
 title: "Hard Truths: Wisdom in Babylon"
 date: 2025-10-12
 categories: [wisdom, workplace, biblical-application]
-redirect_from: /2025-10-12-hard-employment-truths.md
+redirect_from: /2025-10-12-hard-employment-truths.html
 ---
 
 # Hard Truths: Wisdom in Babylon

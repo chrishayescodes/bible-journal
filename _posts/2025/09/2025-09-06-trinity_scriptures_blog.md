@@ -3,7 +3,7 @@ layout: post
 title: "Trinity in Scripture: A Clear Look at God, Jesus, and the Holy Spirit Speaking"
 date: 2025-09-06
 categories: [blog]
-redirect_from: /2025-09-06-trinity_scriptures_blog.md
+redirect_from: /2025-09-06-trinity_scriptures_blog.html
 ---
 
 # Trinity in Scripture: A Clear Look at God, Jesus, and the Holy Spirit Speaking
