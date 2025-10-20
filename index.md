@@ -10,6 +10,7 @@ Welcome to my collection of Bible study notes, theological reflections, and spir
 ## Recent Entries (Chronological)
 
 ### October 2025
+- **Oct 20** - [Jesus Establishes the New and Better Covenant]({{ site.baseurl }}/2025/10/20/new_and_better_covenant/) - Comprehensive analysis of how Christ's new covenant completely replaces the Old Covenant through His perfect sacrifice
 - **Oct 15** - [The Real "Fascist" Nazis]({{ site.baseurl }}/2025/10/15/the-real-nazis/) - Examining how modern political tactics—from abortion advocacy to campus indoctrination to street violence—mirror Nazi dehumanization strategies
 - **Oct 12** - [Hard Truths: Wisdom in Babylon]({{ site.baseurl }}/2025/10/12/hard-employment-truths/) - Daniel's model for being ruthlessly strategic and morally grounded simultaneously in the workplace
 - **Oct 11** - [Navigating Unfair Systems: Wisdom from Literature and Scripture]({{ site.baseurl }}/2025/10/11/wisdom_unfair_systems/) - Biblical and literary wisdom for thriving in broken systems while maintaining integrity
