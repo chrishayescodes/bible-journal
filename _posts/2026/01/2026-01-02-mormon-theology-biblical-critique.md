@@ -26,7 +26,7 @@ This is not an isolated text. Isaiah returns to this theme repeatedly, as if ant
 
 > "I am the LORD, and there is none else, there is no God beside me." (Isaiah 45:5)
 
-That phrase in Isaiah 44:8—"I know not any"—carries particular weight. The Hebrew construction (לֹא יָדָעְתִּי, *lo yadati*) functions as a categorical denial. The omniscient God declares he does not recognize, acknowledge, or grant standing to any other deity. The verb יָדַע (*yada*) in Hebrew carries relational and covenantal weight—not mere intellectual awareness but recognition and acknowledgment. (For a fuller treatment of what *yada* means and why it matters, see [What We Don't Know About "Know"]({{ site.baseurl }}/2026/01/02/yada-knowing-deeper-meaning/).) God refuses to grant any other god legitimacy because no other god exists.
+That phrase in Isaiah 44:8—"I know not any"—carries particular weight. The Hebrew construction (לֹא יָדָעְתִּי, *lo yadati*) functions as a categorical denial. The omniscient God declares he does not recognize, acknowledge, or grant standing to any other deity. The verb יָדַע (*yada*) in Hebrew carries relational and covenantal weight—not mere intellectual awareness but recognition and acknowledgment. (For a fuller treatment of what *yada* means and why it matters, see [What We Don't Know About "Know"](/bible-journal/2026/01/02/yada-knowing-deeper-meaning/).) God refuses to grant any other god legitimacy because no other god exists.
 
 If LDS theology were true—if an infinite chain of gods exists, each exalting the next—YHWH would certainly know about them. He would know the god who exalted him. Yet he declares with emphatic finality: I know not any.
 
