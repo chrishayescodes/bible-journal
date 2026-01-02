@@ -9,6 +9,10 @@ Welcome to my collection of Bible study notes, theological reflections, and spir
 
 ## Recent Entries (Chronological)
 
+### January 2026
+- **Jan 2** - [The God Who Has Always Been God]({{ site.baseurl }}/2026/01/02/mormon-theology-biblical-critique/) - Why Mormon theology contradicts biblical monotheism
+- **Jan 2** - [What We Don't Know About "Know"]({{ site.baseurl }}/2026/01/02/yada-knowing-deeper-meaning/) - Recovering the Hebrew word *yada* that the modern world has flattened
+
 ### October 2025
 - **Oct 20** - [Jesus Establishes the New and Better Covenant]({{ site.baseurl }}/2025/10/20/new_and_better_covenant/) - Comprehensive analysis of how Christ's new covenant completely replaces the Old Covenant through His perfect sacrifice
 - **Oct 15** - [The Real "Fascist" Nazis]({{ site.baseurl }}/2025/10/15/the-real-nazis/) - Examining how modern political tactics—from abortion advocacy to campus indoctrination to street violence—mirror Nazi dehumanization strategies
