@@ -10,6 +10,7 @@ Welcome to my collection of Bible study notes, theological reflections, and spir
 ## Recent Entries (Chronological)
 
 ### January 2026
+- **Jan 2** - [Tithing in the New Testament Dispensation]({{ site.baseurl }}/2026/01/02/tithing/) - Why tithing is an act of faith, not adherence to law
 - **Jan 2** - [The God Who Has Always Been God]({{ site.baseurl }}/2026/01/02/mormon-theology-biblical-critique/) - Why Mormon theology contradicts biblical monotheism
 - **Jan 2** - [What We Don't Know About "Know"]({{ site.baseurl }}/2026/01/02/yada-knowing-deeper-meaning/) - Recovering the Hebrew word *yada* that the modern world has flattened
 
