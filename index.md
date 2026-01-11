@@ -10,6 +10,7 @@ Welcome to my collection of Bible study notes, theological reflections, and spir
 ## Recent Entries (Chronological)
 
 ### January 2026
+- **Jan 11** - [The Political Construction of Papal Authority]({{ site.baseurl }}/2026/01/11/petrine-primacy-political-construction/) - A legal deconstruction of the Peter-in-Rome narrative and papal claims
 - **Jan 11** - [The Capture of Christianity]({{ site.baseurl }}/2026/01/11/constantine-capture-of-christianity/) - Constantine, the vision, and the resistance to imperial co-option
 - **Jan 2** - [Tithing in the New Testament Dispensation]({{ site.baseurl }}/2026/01/02/tithing/) - Why tithing is an act of faith, not adherence to law
 - **Jan 2** - [The God Who Has Always Been God]({{ site.baseurl }}/2026/01/02/mormon-theology-biblical-critique/) - Why Mormon theology contradicts biblical monotheism
