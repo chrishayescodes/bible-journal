@@ -108,7 +108,7 @@ Jesus made this point explicitly in his hometown synagogue, and it nearly got hi
 
 Two Gentiles. A widow from Sidon and a Syrian military commander. Israel had widows starving and lepers suffering, yet the prophets went outside the covenant people.
 
-The synagogue's response—driving Jesus to a cliff to throw him off—reveals how offensive this truth is. Sovereignty means God isn't obligated to his own people. Election doesn't create entitlement. Being inside the covenant community doesn't guarantee receiving what the covenant offers. Meanwhile, outsiders with nothing to commend them receive what insiders assume is theirs by right.
+The synagogue's response—driving Jesus to a cliff to throw him off—reveals how offensive this truth is. Sovereignty means God isn't obligated to his own people. {% highlight %}Election doesn't create entitlement.{% endhighlight %} Being inside the covenant community doesn't guarantee receiving what the covenant offers. Meanwhile, outsiders with nothing to commend them receive what insiders assume is theirs by right.
 
 This circles back to the Syrophoenician woman and the centurion. They stand in the line of the widow of Zarephath and Naaman. Gentiles who received what Israel presumed upon.
 
