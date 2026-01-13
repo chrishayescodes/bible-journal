@@ -10,6 +10,7 @@ Welcome to my collection of Bible study notes, theological reflections, and spir
 ## Recent Entries (Chronological)
 
 ### January 2026
+- **Jan 13** - [AI and Biblical Research]({{ site.baseurl }}/2026/01/13/ai-biblical-research/) - Why knowing the whole Word matters more than clever prompting techniques
 - **Jan 13** - [How to Make Your Woman Look Amazing]({{ site.baseurl }}/2026/01/13/make-your-woman-look-amazing/) - The biblical vision of husbands actively investing in their wives' flourishing
 - **Jan 13** - [Beware the "Hidden Truth" Teachers]({{ site.baseurl }}/2026/01/13/young-woman-or-virgin/) - Why the *almah* argument against the virgin birth fails and the pattern of false revelation
 - **Jan 11** - [The Political Construction of Papal Authority]({{ site.baseurl }}/2026/01/11/petrine-primacy-political-construction/) - A legal deconstruction of the Peter-in-Rome narrative and papal claims
