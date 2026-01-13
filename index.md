@@ -10,6 +10,8 @@ Welcome to my collection of Bible study notes, theological reflections, and spir
 ## Recent Entries (Chronological)
 
 ### January 2026
+- **Jan 13** - [How to Make Your Woman Look Amazing]({{ site.baseurl }}/2026/01/13/make-your-woman-look-amazing/) - The biblical vision of husbands actively investing in their wives' flourishing
+- **Jan 13** - [Beware the "Hidden Truth" Teachers]({{ site.baseurl }}/2026/01/13/young-woman-or-virgin/) - Why the *almah* argument against the virgin birth fails and the pattern of false revelation
 - **Jan 11** - [The Political Construction of Papal Authority]({{ site.baseurl }}/2026/01/11/petrine-primacy-political-construction/) - A legal deconstruction of the Peter-in-Rome narrative and papal claims
 - **Jan 11** - [The Capture of Christianity]({{ site.baseurl }}/2026/01/11/constantine-capture-of-christianity/) - Constantine, the vision, and the resistance to imperial co-option
 - **Jan 2** - [Tithing in the New Testament Dispensation]({{ site.baseurl }}/2026/01/02/tithing/) - Why tithing is an act of faith, not adherence to law
