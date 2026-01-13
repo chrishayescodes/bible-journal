@@ -10,6 +10,8 @@ Welcome to my collection of Bible study notes, theological reflections, and spir
 ## Recent Entries (Chronological)
 
 ### January 2026
+- **Jan 13** - [Attitude Determines Altitude]({{ site.baseurl }}/2026/01/13/attitude-determines-altitude/) - How receptivity—not circumstance or method—determines what we receive from Jesus
+- **Jan 13** - [Discerning False Teaching]({{ site.baseurl }}/2026/01/13/discerning-false-teaching/) - The character test for evaluating teachers and the need for accountable pastoral authority
 - **Jan 13** - [AI and Biblical Research]({{ site.baseurl }}/2026/01/13/ai-biblical-research/) - Why knowing the whole Word matters more than clever prompting techniques
 - **Jan 13** - [How to Make Your Woman Look Amazing]({{ site.baseurl }}/2026/01/13/make-your-woman-look-amazing/) - The biblical vision of husbands actively investing in their wives' flourishing
 - **Jan 13** - [Beware the "Hidden Truth" Teachers]({{ site.baseurl }}/2026/01/13/young-woman-or-virgin/) - Why the *almah* argument against the virgin birth fails and the pattern of false revelation
