@@ -18,6 +18,20 @@ The Greek kept the focus on the mechanism and its effect on the person who encou
 
 But here's the nuance: the two senses often work together. The skandalon shocks *and* trips. The shock is frequently *how* it trips. Revulsion creates the stumbling condition. The thing that is scandalous in the shocking sense becomes scandalous in the falling sense—people can't get past the offense to reach the meaning underneath.
 
+**When "Offended" Meant Something Stronger**
+
+The King James Version's use of "offended" wasn't a weak translation in 1611. The word carried more weight then.
+
+In early modern English, "offend" still held its Latin root *offendere*—to strike against, to stumble. "To be offended" meant to be tripped up, hindered, caused to fall. The physical sense was still present in the word.
+
+Shakespeare uses it this way. "Offend" could mean to transgress, but it could also mean to wound, to harm, to cause someone to stumble in their course. The emotional-only reading came later as the word narrowed.
+
+So the KJV translators weren't softening skandalon. They were using an English word that, at the time, still carried the stumbling-block sense. Their readers would have heard "nothing shall offend them" as "nothing shall trip them up" or "nothing shall cause them to fall."
+
+The problem isn't the 1611 translation. The problem is that English kept moving while the text stayed fixed. "Offended" drifted toward hurt feelings and lost its stumbling. Modern readers bring 2025 definitions to 1611 words and miss what the translators intended.
+
+This is where the settled word meets shifting language. The Hebrew *mikshol* and Greek *skandalon* remain anchored. The KJV's "offend" was a good anchor point in its era. But anchors need checking when the shoreline moves. Going back to the original languages helps us recover what was always there—not a promise about emotional comfort, but a promise about staying upright.
+
 So the psalm isn't promising that rooted believers won't experience emotional discomfort. It's promising they won't be *tripped up*. They won't hit an obstacle that sends them sprawling off the path. Their love for Torah creates stability deep enough to keep them upright when the ground shifts—even when what they encounter is shocking.
 
 This changes the question. It's not "why are you upset?"—it's "what would it take to knock you down?"
