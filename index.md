@@ -10,6 +10,7 @@ Welcome to my collection of Bible study notes, theological reflections, and spir
 ## Recent Entries (Chronological)
 
 ### January 2026
+- **Jan 14** - [You Are Wrong]({{ site.baseurl }}/2026/01/14/you-are-wrong/) - Why attacks on Scripture fail—dismantling the Deuteronomy 22 accusation and exposing the deeper spiritual problem
 - **Jan 13** - [They That Love the Law of the Lord]({{ site.baseurl }}/2026/01/13/scandalous-fall/) - What *skandalon* really means and why Psalm 119:165 isn't about hurt feelings
 - **Jan 13** - [Attitude Determines Altitude]({{ site.baseurl }}/2026/01/13/attitude-determines-altitude/) - How receptivity—not circumstance or method—determines what we receive from Jesus
 - **Jan 13** - [Discerning False Teaching]({{ site.baseurl }}/2026/01/13/discerning-false-teaching/) - The character test for evaluating teachers and the need for accountable pastoral authority
