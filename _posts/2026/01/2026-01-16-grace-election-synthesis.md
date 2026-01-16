@@ -414,6 +414,16 @@ And worse: the tax collector who simply beats his breast and says "God be mercif
 
 That's the scandal. Grace isn't just theologically offensive to works-righteousness. It's personally insulting. It renders the striving worthless as merit.
 
+Yet this is precisely what Christ Himself modeled:
+
+> "Let this mind be in you, which was also in Christ Jesus: Who, being in the form of God, thought it not robbery to be equal with God: But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men." — Philippians 2:5-7
+
+The *kenosis*—the self-emptying. Christ, who had every right to claim His status, emptied Himself. He offloaded divine prerogatives. He came low. He came as a servant.
+
+If the Son of God emptied Himself to accomplish our salvation, how much more must we empty ourselves to receive it? The pattern is set. The striving, the accumulated merit, the religious résumé—all must be offloaded. We must come the way He came: emptied.
+
+This is the work of God—that ye believe. And belief requires emptying.
+
 ### The Eye of the Needle
 
 > "It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God." — Matthew 19:24
