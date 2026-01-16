@@ -72,6 +72,10 @@ Till the ground. Prepare the soil. Cultivate the heart.
 
 From the very first job, God was teaching us how grace and effort hold together.
 
+And the work He ultimately requires?
+
+> "This is the work of God, that ye believe on him whom he hath sent." — John 6:29
+
 ---
 
 ## Introduction
