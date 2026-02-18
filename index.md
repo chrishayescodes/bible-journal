@@ -9,6 +9,9 @@ Welcome to my collection of Bible study notes, theological reflections, and spir
 
 ## Recent Entries (Chronological)
 
+### February 2026
+- **Feb 18** - [Ash Wednesday and the Berean Test]({{ site.baseurl }}/2026/02/18/ash-wednesday-is-bologna/) - Applying the Berean standard to Ash Wednesday—when Jesus said wash your face, the institution says mark it
+
 ### January 2026
 - **Jan 16** - [Grace, Election, and Living Faith]({{ site.baseurl }}/2026/01/16/grace-election-synthesis/) - A biblical synthesis on how grace, election, and faith hold together—and why both Calvinism and antinomianism miss the gospel
 - **Jan 14** - [You Are Wrong]({{ site.baseurl }}/2026/01/14/you-are-wrong/) - Why attacks on Scripture fail—dismantling the Deuteronomy 22 accusation and exposing the deeper spiritual problem
