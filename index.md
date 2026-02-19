@@ -11,6 +11,7 @@ Welcome to my collection of Bible study notes, theological reflections, and spir
 
 ### February 2026
 - **Feb 18** - [Ash Wednesday and the Berean Test]({{ site.baseurl }}/2026/02/18/ash-wednesday-is-bologna/) - Applying the Berean standard to Ash Wednesday—when Jesus said wash your face, the institution says mark it
+- **Feb 18** - [Divine Breadcrumbs: Why Jesus Never Said "I Am God"]({{ site.baseurl }}/2026/02/18/divine-breadcrumbs/) - Why Jesus revealed his deity through a deliberate trail of claims rather than a flat declaration—and why the resurrection was the key that unlocked them all
 
 ### January 2026
 - **Jan 16** - [Grace, Election, and Living Faith]({{ site.baseurl }}/2026/01/16/grace-election-synthesis/) - A biblical synthesis on how grace, election, and faith hold together—and why both Calvinism and antinomianism miss the gospel
